@@ -1,6 +1,11 @@
 # Accelerator-Interview-AlbumSearch
 Cognizant Accelerator Interview Application: This application is an album search application, which includes both a client and server.
 
+See Repository for the following:
+  Screenshot png files.
+  WebArchitecture.pdf
+  Readme.pdf
+
 Dashboard Browser Application: 
 
 Decided to just go with what I know (JS, and bootstrap) rather than trying a framework.
